@@ -1,4 +1,4 @@
-.header {
+.main-header {
     display: flex;
     justify-content: space-between; /*1º item: direita / Último item: esquerda*/
     background-color: #7c5e99;
